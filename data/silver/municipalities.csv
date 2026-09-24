@@ -1,0 +1,163 @@
+municipality_id,name,type,type_name,regional_district,first_year,last_year,published_as
+100-mile-house-d,100 Mile House,D,District,CAR,2019,2024,100 Mile House
+abbotsford-c,Abbotsford,C,City,FVR,2019,2024,Abbotsford | Abbotsford - C
+alert-bay-v,Alert Bay,V,Village,MW,2019,2024,Alert Bay
+anmore-v,Anmore,V,Village,MVRD,2019,2024,Anmore
+armstrong-c,Armstrong,C,City,NOK,2019,2024,Armstrong
+ashcroft-v,Ashcroft,V,Village,TNR,2019,2024,Ashcroft
+barriere-d,Barriere,D,District,TNR,2019,2024,Barriere
+belcarra-v,Belcarra,V,Village,MVRD,2019,2024,Belcarra
+bowen-island-d,Bowen Island,D,District,MVRD,2019,2024,Bowen Island
+burnaby-c,Burnaby,C,City,MVRD,2019,2024,Burnaby
+burns-lake-v,Burns Lake,V,Village,BUL,2019,2024,Burns Lake
+cache-creek-v,Cache Creek,V,Village,TNR,2019,2024,Cache Creek
+campbell-river-c,Campbell River,C,City,STR,2019,2024,Campbell River
+canal-flats-v,Canal Flats,V,Village,EKO,2019,2024,Canal Flats
+castlegar-c,Castlegar,C,City,CKO,2019,2024,Castlegar
+central-saanich-d,Central Saanich,D,District,CAP,2019,2024,Central Saanich
+chase-v,Chase,V,Village,TNR,2019,2024,Chase
+chetwynd-d,Chetwynd,D,District,PEA,2019,2024,Chetwynd
+chilliwack-c,Chilliwack,C,City,FVR,2019,2024,Chilliwack
+clearwater-d,Clearwater,D,District,TNR,2019,2024,Clearwater
+clinton-v,Clinton,V,Village,TNR,2019,2024,Clinton
+coldstream-d,Coldstream,D,District,NOK,2019,2024,Coldstream
+colwood-c,Colwood,C,City,CAP,2019,2024,Colwood
+comox-t,Comox,T,Town,COM,2019,2024,Comox
+coquitlam-c,Coquitlam,C,City,MVRD,2019,2024,Coquitlam
+courtenay-c,Courtenay,C,City,COM,2019,2024,Courtenay
+cranbrook-c,Cranbrook,C,City,EKO,2019,2024,Cranbrook
+creston-t,Creston,T,Town,CKO,2019,2024,Creston
+cumberland-v,Cumberland,V,Village,COM,2019,2024,Cumberland
+daajing-giids-v,Daajing Giids,V,Village,NCRD,2019,2024,Daajing Giids | Queen Charlotte
+dawson-creek-c,Dawson Creek,C,City,PEA,2019,2024,Dawson Creek
+delta-c,Delta,C,City,MVRD,2019,2024,Delta
+duncan-c,Duncan,C,City,COW,2019,2024,Duncan
+elkford-d,Elkford,D,District,EKO,2019,2024,Elkford
+enderby-c,Enderby,C,City,NOK,2019,2024,Enderby
+esquimalt-d,Esquimalt,D,District,CAP,2019,2024,Esquimalt
+fernie-c,Fernie,C,City,EKO,2019,2024,Fernie
+fort-st-james-d,Fort St. James,D,District,BUL,2019,2024,Fort St. James
+fort-st-john-c,Fort St. John,C,City,PEA,2019,2024,Fort St. John
+fraser-lake-v,Fraser Lake,V,Village,BUL,2019,2024,Fraser Lake
+fruitvale-v,Fruitvale,V,Village,KOO,2019,2024,Fruitvale
+gibsons-t,Gibsons,T,Town,SUN,2019,2024,Gibsons
+gold-river-v,Gold River,V,Village,STR,2019,2024,Gold River
+golden-t,Golden,T,Town,COL,2019,2024,Golden
+grand-forks-c,Grand Forks,C,City,KOO,2019,2024,Grand Forks
+granisle-v,Granisle,V,Village,BUL,2019,2024,Granisle
+greenwood-c,Greenwood,C,City,KOO,2019,2024,Greenwood
+harrison-hot-springs-v,Harrison Hot Springs,V,Village,FVR,2019,2024,Harrison Hot Springs
+hazelton-v,Hazelton,V,Village,KIT,2019,2024,Hazelton
+highlands-d,Highlands,D,District,CAP,2019,2024,Highlands
+hope-d,Hope,D,District,FVR,2019,2024,Hope
+houston-d,Houston,D,District,BUL,2019,2024,Houston
+hudson-s-hope-d,Hudson's Hope,D,District,PEA,2019,2024,Hudson's Hope
+invermere-d,Invermere,D,District,EKO,2019,2024,Invermere
+jumbo-glacier-v,Jumbo Glacier,V,Village,EKO,2019,2020,Jumbo Glacier
+kamloops-c,Kamloops,C,City,TNR,2019,2024,Kamloops
+kaslo-v,Kaslo,V,Village,CKO,2019,2024,Kaslo
+kelowna-c,Kelowna,C,City,COK,2019,2024,Kelowna
+kent-d,Kent,D,District,FVR,2019,2024,Kent
+keremeos-v,Keremeos,V,Village,OKS,2019,2024,Keremeos
+kimberley-c,Kimberley,C,City,EKO,2019,2024,Kimberley
+kitimat-d,Kitimat,D,District,KIT,2019,2024,Kitimat
+ladysmith-t,Ladysmith,T,Town,COW,2019,2024,Ladysmith
+lake-country-d,Lake Country,D,District,COK,2019,2024,Lake Country
+lake-cowichan-t,Lake Cowichan,T,Town,COW,2019,2024,Lake Cowichan
+langford-c,Langford,C,City,CAP,2019,2024,Langford
+langley-c,Langley,C,City,MVRD,2019,2024,Langley | Langley - C
+langley-d,Langley,D,District,MVRD,2019,2024,Langley | Langley - D
+lantzville-d,Lantzville,D,District,NAN,2019,2024,Lantzville
+lillooet-d,Lillooet,D,District,SQL,2019,2024,Lillooet
+lions-bay-v,Lions Bay,V,Village,MVRD,2019,2024,Lions Bay
+logan-lake-d,Logan Lake,D,District,TNR,2019,2024,Logan Lake
+lumby-v,Lumby,V,Village,NOK,2019,2024,Lumby
+lytton-v,Lytton,V,Village,TNR,2019,2024,Lytton
+mackenzie-d,Mackenzie,D,District,FFG,2019,2024,Mackenzie
+maple-ridge-c,Maple Ridge,C,City,MVRD,2019,2024,Maple Ridge
+masset-v,Masset,V,Village,NCRD,2019,2024,Masset
+mcbride-v,McBride,V,Village,FFG,2019,2024,McBride
+merritt-c,Merritt,C,City,TNR,2019,2024,Merritt
+metchosin-d,Metchosin,D,District,CAP,2019,2024,Metchosin
+midway-v,Midway,V,Village,KOO,2019,2024,Midway
+mission-c,Mission,C,City,FVR,2019,2024,Mission
+montrose-v,Montrose,V,Village,KOO,2019,2024,Montrose
+nakusp-v,Nakusp,V,Village,CKO,2019,2024,Nakusp
+nanaimo-c,Nanaimo,C,City,NAN,2019,2024,Nanaimo | Nanaimo - C
+nelson-c,Nelson,C,City,CKO,2019,2024,Nelson
+new-denver-v,New Denver,V,Village,CKO,2019,2024,New Denver
+new-hazelton-d,New Hazelton,D,District,KIT,2019,2024,New Hazelton
+new-westminster-c,New Westminster,C,City,MVRD,2019,2024,New Westminster
+north-cowichan-d,North Cowichan,D,District,COW,2019,2024,North Cowichan
+north-saanich-d,North Saanich,D,District,CAP,2019,2024,North Saanich
+north-vancouver-c,North Vancouver,C,City,MVRD,2019,2024,North Vancouver | North Vancouver - C
+north-vancouver-d,North Vancouver,D,District,MVRD,2019,2024,North Vancouver | North Vancouver - D
+northern-rockies-d,Northern Rockies,D,District,,2019,2024,Northern Rockies | Northern Rockies - REGM
+oak-bay-d,Oak Bay,D,District,CAP,2019,2024,Oak Bay
+oliver-t,Oliver,T,Town,OKS,2019,2024,Oliver
+osoyoos-t,Osoyoos,T,Town,OKS,2019,2024,Osoyoos
+parksville-c,Parksville,C,City,NAN,2019,2024,Parksville
+peachland-d,Peachland,D,District,COK,2019,2024,Peachland
+pemberton-v,Pemberton,V,Village,SQL,2019,2024,Pemberton
+penticton-c,Penticton,C,City,OKS,2019,2024,Penticton
+pitt-meadows-c,Pitt Meadows,C,City,MVRD,2019,2024,Pitt Meadows
+port-alberni-c,Port Alberni,C,City,ALB,2019,2024,Port Alberni
+port-alice-v,Port Alice,V,Village,MW,2019,2024,Port Alice
+port-clements-v,Port Clements,V,Village,NCRD,2019,2024,Port Clements
+port-coquitlam-c,Port Coquitlam,C,City,MVRD,2019,2024,Port Coquitlam
+port-edward-d,Port Edward,D,District,NCRD,2019,2024,Port Edward
+port-hardy-d,Port Hardy,D,District,MW,2019,2024,Port Hardy
+port-mcneill-t,Port McNeill,T,Town,MW,2019,2024,Port McNeill
+port-moody-c,Port Moody,C,City,MVRD,2019,2024,Port Moody
+pouce-coupe-v,Pouce Coupe,V,Village,PEA,2019,2024,Pouce Coupe
+powell-river-c,Powell River,C,City,qRD,2019,2024,Powell River | Powell River - C
+prince-george-c,Prince George,C,City,FFG,2019,2024,Prince George
+prince-rupert-c,Prince Rupert,C,City,NCRD,2019,2024,Prince Rupert
+princeton-t,Princeton,T,Town,OKS,2019,2024,Princeton
+qualicum-beach-t,Qualicum Beach,T,Town,NAN,2019,2024,Qualicum Beach
+quesnel-c,Quesnel,C,City,CAR,2019,2024,Quesnel
+radium-hot-springs-v,Radium Hot Springs,V,Village,EKO,2019,2024,Radium Hot Springs
+revelstoke-c,Revelstoke,C,City,COL,2019,2024,Revelstoke
+richmond-c,Richmond,C,City,MVRD,2019,2024,Richmond
+rossland-c,Rossland,C,City,KOO,2019,2024,Rossland
+saanich-d,Saanich,D,District,CAP,2019,2024,Saanich
+salmo-v,Salmo,V,Village,CKO,2019,2024,Salmo
+salmon-arm-c,Salmon Arm,C,City,COL,2019,2024,Salmon Arm
+sayward-v,Sayward,V,Village,STR,2019,2024,Sayward
+sechelt-d,Sechelt,D,District,SUN,2019,2024,Sechelt
+shishalh-nation-government-district-d,shíshálh Nation Government District,D,District,SUN,2019,2024,Sechelt Indian Government | shíshálh Nation Government District
+sicamous-d,Sicamous,D,District,COL,2019,2024,Sicamous
+sidney-t,Sidney,T,Town,CAP,2019,2024,Sidney
+silverton-v,Silverton,V,Village,CKO,2019,2024,Silverton
+slocan-v,Slocan,V,Village,CKO,2019,2024,Slocan
+smithers-t,Smithers,T,Town,BUL,2019,2024,Smithers
+sooke-d,Sooke,D,District,CAP,2019,2024,Sooke
+spallumcheen-d,Spallumcheen,D,District,NOK,2019,2024,Spallumcheen
+sparwood-d,Sparwood,D,District,EKO,2019,2024,Sparwood
+squamish-d,Squamish,D,District,SQL,2019,2024,Squamish
+stewart-d,Stewart,D,District,KIT,2019,2024,Stewart
+summerland-d,Summerland,D,District,OKS,2019,2024,Summerland
+sun-peaks-v,Sun Peaks,V,Village,TNR,2019,2024,Sun Peaks
+surrey-c,Surrey,C,City,MVRD,2019,2024,Surrey
+tahsis-v,Tahsis,V,Village,STR,2019,2024,Tahsis
+taylor-d,Taylor,D,District,PEA,2019,2024,Taylor
+telkwa-v,Telkwa,V,Village,BUL,2019,2024,Telkwa
+terrace-c,Terrace,C,City,KIT,2019,2024,Terrace
+tofino-d,Tofino,D,District,ALB,2019,2024,Tofino
+trail-c,Trail,C,City,KOO,2019,2024,Trail
+tumbler-ridge-d,Tumbler Ridge,D,District,PEA,2019,2024,Tumbler Ridge
+ucluelet-d,Ucluelet,D,District,ALB,2019,2024,Ucluelet
+valemount-v,Valemount,V,Village,FFG,2019,2024,Valemount
+vancouver-c,Vancouver,C,City,MVRD,2019,2024,Vancouver | Vancouver1
+vanderhoof-d,Vanderhoof,D,District,BUL,2019,2024,Vanderhoof
+vernon-c,Vernon,C,City,NOK,2019,2024,Vernon
+victoria-c,Victoria,C,City,CAP,2019,2024,Victoria
+view-royal-t,View Royal,T,Town,CAP,2019,2024,View Royal
+warfield-v,Warfield,V,Village,KOO,2019,2024,Warfield
+wells-d,Wells,D,District,CAR,2019,2024,Wells
+west-kelowna-c,West Kelowna,C,City,COK,2019,2024,West Kelowna
+west-vancouver-d,West Vancouver,D,District,MVRD,2019,2024,West Vancouver
+whistler-d,Whistler,D,District,SQL,2019,2024,Whistler
+white-rock-c,White Rock,C,City,MVRD,2019,2024,White Rock
+williams-lake-c,Williams Lake,C,City,CAR,2019,2024,Williams Lake
+zeballos-v,Zeballos,V,Village,STR,2019,2024,Zeballos

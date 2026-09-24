@@ -1,0 +1,82 @@
+version: 2
+
+# The metric catalogue. Each indicator's definition, its direction ("higher is
+# better", "lower is better", or "context"), and the tests that hold it.
+
+models:
+  - name: dim_municipality
+    description: One row per BC municipality, 2019-2024, with a display name that tells the two Langleys and two North Vancouvers apart.
+    columns:
+      - name: municipality_id
+        data_tests: [unique, not_null]
+      - name: display_name
+        data_tests: [unique, not_null]
+      - name: type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['C', 'D', 'T', 'V']
+      - name: size_tier
+        description: Peer group by the latest BC Stats population estimate.
+
+  - name: fct_municipal_year
+    description: One row per municipality and year. Money in dollars, ratios as fractions.
+    columns:
+      - name: municipality_year
+        data_tests: [unique, not_null]
+      - name: municipality_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_municipality')
+                field: municipality_id
+      - name: total_revenue
+        description: "Null where the Province publishes no statements for that year; every such gap is in seeds/missing_statements.csv."
+      - name: own_source_share
+        description: "Revenue not from other governments or developers, over total revenue. Direction: higher is more self-reliant."
+      - name: limit_used
+        description: "Debt servicing cost over the legal liability servicing limit (25% of revenue for the limit). Direction: lower leaves more borrowing room."
+      - name: reserves_to_cash_expenses
+        description: "Operating/capital surplus plus statutory reserves, over expenses excluding amortization. Direction: higher is more resilient."
+      - name: asset_consumption_ratio
+        description: "Accumulated amortization over historical cost of depreciable assets. Direction: higher means older assets."
+      - name: asset_data_quality
+        description: Whether the municipality's reported replacement values pass the plausibility screen.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['plausible', 'not reported', 'replacement value implausible', 'reported need implausible']
+      - name: renewal_need
+        description: "Amortization scaled from historical to replacement cost; null where the replacement value is implausible."
+      - name: reinvestment_ratio
+        description: "Capital additions (three-year average) over the re-derived renewal need. Below 1, assets are renewed more slowly than they wear out. Additions include growth assets, so this is an upper bound on renewal."
+
+  - name: fct_asset_category
+    columns:
+      - name: asset_category
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['Land', 'Buildings', 'Fleet', 'Parks and Recreation', 'Water System', 'Sewer System', 'Drainage System', 'Transportation System', 'Other Engineering Systems', 'Other Tangible Capital Assets', 'Work In Progress']
+      - name: amp_status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['Yes', 'No', 'In_Progress', 'Not applicable']
+
+  - name: fct_tax_class
+    columns:
+      - name: property_class
+        data_tests: [not_null]
+
+  - name: mart_peer_benchmark
+    description: The latest year for every active municipality, ranked within its size tier and across the province.
+    columns:
+      - name: municipality_id
+        data_tests: [unique, not_null]
+
+  - name: mart_province_trend
+    columns:
+      - name: year
+        data_tests: [unique, not_null]

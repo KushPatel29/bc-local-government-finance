@@ -1,0 +1,68 @@
+name: Refresh from the Province
+
+# The Province republishes schedules when municipalities file late or correct
+# a return. Once a month this re-downloads every file; if any changed, it
+# rebuilds silver and gold, runs dbt's tests on the new data, and opens a pull
+# request (or, where Actions may not open pull requests, an issue) so a person
+# reviews the change and rebuilds the workbook before anything is published.
+
+on:
+  schedule:
+    - cron: "15 7 3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Has the Province changed anything?
+        id: check
+        run: |
+          if python pipeline/fetch_sources.py --check > check.txt; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+          cat check.txt
+
+      - name: Download, rebuild silver and gold, run the data tests
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          python pipeline/fetch_sources.py
+          python pipeline/extract.py
+          dbt build --project-dir dbt --profiles-dir dbt | tee dbt.txt
+
+      - name: Open a pull request, or an issue
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          branch="refresh/$(date -u +%Y-%m-%d)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add data/raw data/sources.json data/silver data/gold
+          git commit -m "Refresh from the Province: $(grep -c changed: check.txt) file(s) changed"
+          git push origin "$branch"
+          body="$(cat check.txt)
+
+          dbt: $(tail -1 dbt.txt)
+
+          The workbook is not rebuilt here (it needs Excel). Rebuild it locally before merging."
+          gh pr create --head "$branch" --title "Refresh from the Province" --body "$body" \
+            || gh issue create --title "The Province changed its schedules" --body "$body
+
+          Branch: $branch"

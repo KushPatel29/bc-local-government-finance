@@ -1,0 +1,163 @@
+municipality_id,name,display_name,type,type_name,regional_district,first_year,last_year,active,population_latest,size_tier,published_as
+100-mile-house-d,100 Mile House,100 Mile House,D,District,CAR,2019,2024,true,2083.0,"1: under 2,500",100 Mile House
+abbotsford-c,Abbotsford,Abbotsford,C,City,FVR,2019,2024,true,175589.0,"5: 150,000 and over",Abbotsford | Abbotsford - C
+alert-bay-v,Alert Bay,Alert Bay,V,Village,MW,2019,2024,true,463.0,"1: under 2,500",Alert Bay
+anmore-v,Anmore,Anmore,V,Village,MVRD,2019,2024,true,2533.0,"2: 2,500 to 9,999",Anmore
+armstrong-c,Armstrong,Armstrong,C,City,NOK,2019,2024,true,5899.0,"2: 2,500 to 9,999",Armstrong
+ashcroft-v,Ashcroft,Ashcroft,V,Village,TNR,2019,2024,true,1747.0,"1: under 2,500",Ashcroft
+barriere-d,Barriere,Barriere,D,District,TNR,2019,2024,true,1982.0,"1: under 2,500",Barriere
+belcarra-v,Belcarra,Belcarra,V,Village,MVRD,2019,2024,true,729.0,"1: under 2,500",Belcarra
+bowen-island-d,Bowen Island,Bowen Island,D,District,MVRD,2019,2024,true,4181.0,"2: 2,500 to 9,999",Bowen Island
+burnaby-c,Burnaby,Burnaby,C,City,MVRD,2019,2024,true,279948.0,"5: 150,000 and over",Burnaby
+burns-lake-v,Burns Lake,Burns Lake,V,Village,BUL,2019,2024,true,1932.0,"1: under 2,500",Burns Lake
+cache-creek-v,Cache Creek,Cache Creek,V,Village,TNR,2019,2024,true,1111.0,"1: under 2,500",Cache Creek
+campbell-river-c,Campbell River,Campbell River,C,City,STR,2019,2024,true,38658.0,"3: 10,000 to 49,999",Campbell River
+canal-flats-v,Canal Flats,Canal Flats,V,Village,EKO,2019,2024,true,774.0,"1: under 2,500",Canal Flats
+castlegar-c,Castlegar,Castlegar,C,City,CKO,2019,2024,true,9042.0,"2: 2,500 to 9,999",Castlegar
+central-saanich-d,Central Saanich,Central Saanich,D,District,CAP,2019,2024,true,19326.0,"3: 10,000 to 49,999",Central Saanich
+chase-v,Chase,Chase,V,Village,TNR,2019,2024,true,2639.0,"2: 2,500 to 9,999",Chase
+chetwynd-d,Chetwynd,Chetwynd,D,District,PEA,2019,2024,true,2692.0,"2: 2,500 to 9,999",Chetwynd
+chilliwack-c,Chilliwack,Chilliwack,C,City,FVR,2019,2024,true,100884.0,"4: 50,000 to 149,999",Chilliwack
+clearwater-d,Clearwater,Clearwater,D,District,TNR,2019,2024,true,2751.0,"2: 2,500 to 9,999",Clearwater
+clinton-v,Clinton,Clinton,V,Village,TNR,2019,2024,true,621.0,"1: under 2,500",Clinton
+coldstream-d,Coldstream,Coldstream,D,District,NOK,2019,2024,true,12306.0,"3: 10,000 to 49,999",Coldstream
+colwood-c,Colwood,Colwood,C,City,CAP,2019,2024,true,21874.0,"3: 10,000 to 49,999",Colwood
+comox-t,Comox,Comox,T,Town,COM,2019,2024,true,15902.0,"3: 10,000 to 49,999",Comox
+coquitlam-c,Coquitlam,Coquitlam,C,City,MVRD,2019,2024,true,168250.0,"5: 150,000 and over",Coquitlam
+courtenay-c,Courtenay,Courtenay,C,City,COM,2019,2024,true,31242.0,"3: 10,000 to 49,999",Courtenay
+cranbrook-c,Cranbrook,Cranbrook,C,City,EKO,2019,2024,true,22675.0,"3: 10,000 to 49,999",Cranbrook
+creston-t,Creston,Creston,T,Town,CKO,2019,2024,true,5892.0,"2: 2,500 to 9,999",Creston
+cumberland-v,Cumberland,Cumberland,V,Village,COM,2019,2024,true,4901.0,"2: 2,500 to 9,999",Cumberland
+daajing-giids-v,Daajing Giids,Daajing Giids,V,Village,NCRD,2019,2024,true,1033.0,"1: under 2,500",Daajing Giids | Queen Charlotte
+dawson-creek-c,Dawson Creek,Dawson Creek,C,City,PEA,2019,2024,true,13615.0,"3: 10,000 to 49,999",Dawson Creek
+delta-c,Delta,Delta,C,City,MVRD,2019,2024,true,116610.0,"4: 50,000 to 149,999",Delta
+duncan-c,Duncan,Duncan,C,City,COW,2019,2024,true,5513.0,"2: 2,500 to 9,999",Duncan
+elkford-d,Elkford,Elkford,D,District,EKO,2019,2024,true,2805.0,"2: 2,500 to 9,999",Elkford
+enderby-c,Enderby,Enderby,C,City,NOK,2019,2024,true,3323.0,"2: 2,500 to 9,999",Enderby
+esquimalt-d,Esquimalt,Esquimalt,D,District,CAP,2019,2024,true,19738.0,"3: 10,000 to 49,999",Esquimalt
+fernie-c,Fernie,Fernie,C,City,EKO,2019,2024,true,6000.0,"2: 2,500 to 9,999",Fernie
+fort-st-james-d,Fort St. James,Fort St. James,D,District,BUL,2019,2024,true,1696.0,"1: under 2,500",Fort St. James
+fort-st-john-c,Fort St. John,Fort St. John,C,City,PEA,2019,2024,true,23005.0,"3: 10,000 to 49,999",Fort St. John
+fraser-lake-v,Fraser Lake,Fraser Lake,V,Village,BUL,2019,2024,true,1033.0,"1: under 2,500",Fraser Lake
+fruitvale-v,Fruitvale,Fruitvale,V,Village,KOO,2019,2024,true,2112.0,"1: under 2,500",Fruitvale
+gibsons-t,Gibsons,Gibsons,T,Town,SUN,2019,2024,true,5098.0,"2: 2,500 to 9,999",Gibsons
+gold-river-v,Gold River,Gold River,V,Village,STR,2019,2024,true,1296.0,"1: under 2,500",Gold River
+golden-t,Golden,Golden,T,Town,COL,2019,2024,true,4455.0,"2: 2,500 to 9,999",Golden
+grand-forks-c,Grand Forks,Grand Forks,C,City,KOO,2019,2024,true,4447.0,"2: 2,500 to 9,999",Grand Forks
+granisle-v,Granisle,Granisle,V,Village,BUL,2019,2024,true,320.0,"1: under 2,500",Granisle
+greenwood-c,Greenwood,Greenwood,C,City,KOO,2019,2024,true,730.0,"1: under 2,500",Greenwood
+harrison-hot-springs-v,Harrison Hot Springs,Harrison Hot Springs,V,Village,FVR,2019,2024,true,1731.0,"1: under 2,500",Harrison Hot Springs
+hazelton-v,Hazelton,Hazelton,V,Village,KIT,2019,2024,true,347.0,"1: under 2,500",Hazelton
+highlands-d,Highlands,Highlands,D,District,CAP,2019,2024,true,2698.0,"2: 2,500 to 9,999",Highlands
+hope-d,Hope,Hope,D,District,FVR,2019,2024,true,6855.0,"2: 2,500 to 9,999",Hope
+houston-d,Houston,Houston,D,District,BUL,2019,2024,true,3268.0,"2: 2,500 to 9,999",Houston
+hudson-s-hope-d,Hudson's Hope,Hudson's Hope,D,District,PEA,2019,2024,true,1071.0,"1: under 2,500",Hudson's Hope
+invermere-d,Invermere,Invermere,D,District,EKO,2019,2024,true,3910.0,"2: 2,500 to 9,999",Invermere
+jumbo-glacier-v,Jumbo Glacier,Jumbo Glacier,V,Village,EKO,2019,2020,false,,,Jumbo Glacier
+kamloops-c,Kamloops,Kamloops,C,City,TNR,2019,2024,true,107254.0,"4: 50,000 to 149,999",Kamloops
+kaslo-v,Kaslo,Kaslo,V,Village,CKO,2019,2024,true,1069.0,"1: under 2,500",Kaslo
+kelowna-c,Kelowna,Kelowna,C,City,COK,2019,2024,true,160693.0,"5: 150,000 and over",Kelowna
+kent-d,Kent,Kent,D,District,FVR,2019,2024,true,7201.0,"2: 2,500 to 9,999",Kent
+keremeos-v,Keremeos,Keremeos,V,Village,OKS,2019,2024,true,1836.0,"1: under 2,500",Keremeos
+kimberley-c,Kimberley,Kimberley,C,City,EKO,2019,2024,true,8674.0,"2: 2,500 to 9,999",Kimberley
+kitimat-d,Kitimat,Kitimat,D,District,KIT,2019,2024,true,8905.0,"2: 2,500 to 9,999",Kitimat
+ladysmith-t,Ladysmith,Ladysmith,T,Town,COW,2019,2024,true,9690.0,"2: 2,500 to 9,999",Ladysmith
+lake-country-d,Lake Country,Lake Country,D,District,COK,2019,2024,true,18705.0,"3: 10,000 to 49,999",Lake Country
+lake-cowichan-t,Lake Cowichan,Lake Cowichan,T,Town,COW,2019,2024,true,3748.0,"2: 2,500 to 9,999",Lake Cowichan
+langford-c,Langford,Langford,C,City,CAP,2019,2024,true,52953.0,"4: 50,000 to 149,999",Langford
+langley-c,Langley,Langley (City),C,City,MVRD,2019,2024,true,31936.0,"3: 10,000 to 49,999",Langley | Langley - C
+langley-d,Langley,Langley (District),D,District,MVRD,2019,2024,true,148653.0,"4: 50,000 to 149,999",Langley | Langley - D
+lantzville-d,Lantzville,Lantzville,D,District,NAN,2019,2024,true,4099.0,"2: 2,500 to 9,999",Lantzville
+lillooet-d,Lillooet,Lillooet,D,District,SQL,2019,2024,true,2196.0,"1: under 2,500",Lillooet
+lions-bay-v,Lions Bay,Lions Bay,V,Village,MVRD,2019,2024,true,1353.0,"1: under 2,500",Lions Bay
+logan-lake-d,Logan Lake,Logan Lake,D,District,TNR,2019,2024,true,2371.0,"1: under 2,500",Logan Lake
+lumby-v,Lumby,Lumby,V,Village,NOK,2019,2024,true,2147.0,"1: under 2,500",Lumby
+lytton-v,Lytton,Lytton,V,Village,TNR,2019,2024,true,281.0,"1: under 2,500",Lytton
+mackenzie-d,Mackenzie,Mackenzie,D,District,FFG,2019,2024,true,3729.0,"2: 2,500 to 9,999",Mackenzie
+maple-ridge-c,Maple Ridge,Maple Ridge,C,City,MVRD,2019,2024,true,99996.0,"4: 50,000 to 149,999",Maple Ridge
+masset-v,Masset,Masset,V,Village,NCRD,2019,2024,true,766.0,"1: under 2,500",Masset
+mcbride-v,McBride,McBride,V,Village,FFG,2019,2024,true,671.0,"1: under 2,500",McBride
+merritt-c,Merritt,Merritt,C,City,TNR,2019,2024,true,7809.0,"2: 2,500 to 9,999",Merritt
+metchosin-d,Metchosin,Metchosin,D,District,CAP,2019,2024,true,5271.0,"2: 2,500 to 9,999",Metchosin
+midway-v,Midway,Midway,V,Village,KOO,2019,2024,true,738.0,"1: under 2,500",Midway
+mission-c,Mission,Mission,C,City,FVR,2019,2024,true,45231.0,"3: 10,000 to 49,999",Mission
+montrose-v,Montrose,Montrose,V,Village,KOO,2019,2024,true,1097.0,"1: under 2,500",Montrose
+nakusp-v,Nakusp,Nakusp,V,Village,CKO,2019,2024,true,1762.0,"1: under 2,500",Nakusp
+nanaimo-c,Nanaimo,Nanaimo,C,City,NAN,2019,2024,true,108438.0,"4: 50,000 to 149,999",Nanaimo | Nanaimo - C
+nelson-c,Nelson,Nelson,C,City,CKO,2019,2024,true,11716.0,"3: 10,000 to 49,999",Nelson
+new-denver-v,New Denver,New Denver,V,Village,CKO,2019,2024,true,520.0,"1: under 2,500",New Denver
+new-hazelton-d,New Hazelton,New Hazelton,D,District,KIT,2019,2024,true,667.0,"1: under 2,500",New Hazelton
+new-westminster-c,New Westminster,New Westminster,C,City,MVRD,2019,2024,true,88945.0,"4: 50,000 to 149,999",New Westminster
+north-cowichan-d,North Cowichan,North Cowichan,D,District,COW,2019,2024,true,34546.0,"3: 10,000 to 49,999",North Cowichan
+north-saanich-d,North Saanich,North Saanich,D,District,CAP,2019,2024,true,13198.0,"3: 10,000 to 49,999",North Saanich
+north-vancouver-c,North Vancouver,North Vancouver (City),C,City,MVRD,2019,2024,true,64847.0,"4: 50,000 to 149,999",North Vancouver | North Vancouver - C
+north-vancouver-d,North Vancouver,North Vancouver (District),D,District,MVRD,2019,2024,true,95350.0,"4: 50,000 to 149,999",North Vancouver | North Vancouver - D
+northern-rockies-d,Northern Rockies,Northern Rockies,D,District,,2019,2024,true,4400.0,"2: 2,500 to 9,999",Northern Rockies | Northern Rockies - REGM
+oak-bay-d,Oak Bay,Oak Bay,D,District,CAP,2019,2024,true,19703.0,"3: 10,000 to 49,999",Oak Bay
+oliver-t,Oliver,Oliver,T,Town,OKS,2019,2024,true,5824.0,"2: 2,500 to 9,999",Oliver
+osoyoos-t,Osoyoos,Osoyoos,T,Town,OKS,2019,2024,true,5730.0,"2: 2,500 to 9,999",Osoyoos
+parksville-c,Parksville,Parksville,C,City,NAN,2019,2024,true,14710.0,"3: 10,000 to 49,999",Parksville
+peachland-d,Peachland,Peachland,D,District,COK,2019,2024,true,6382.0,"2: 2,500 to 9,999",Peachland
+pemberton-v,Pemberton,Pemberton,V,Village,SQL,2019,2024,true,3678.0,"2: 2,500 to 9,999",Pemberton
+penticton-c,Penticton,Penticton,C,City,OKS,2019,2024,true,37943.0,"3: 10,000 to 49,999",Penticton
+pitt-meadows-c,Pitt Meadows,Pitt Meadows,C,City,MVRD,2019,2024,true,21071.0,"3: 10,000 to 49,999",Pitt Meadows
+port-alberni-c,Port Alberni,Port Alberni,C,City,ALB,2019,2024,true,20264.0,"3: 10,000 to 49,999",Port Alberni
+port-alice-v,Port Alice,Port Alice,V,Village,MW,2019,2024,true,700.0,"1: under 2,500",Port Alice
+port-clements-v,Port Clements,Port Clements,V,Village,NCRD,2019,2024,true,267.0,"1: under 2,500",Port Clements
+port-coquitlam-c,Port Coquitlam,Port Coquitlam,C,City,MVRD,2019,2024,true,67151.0,"4: 50,000 to 149,999",Port Coquitlam
+port-edward-d,Port Edward,Port Edward,D,District,NCRD,2019,2024,true,493.0,"1: under 2,500",Port Edward
+port-hardy-d,Port Hardy,Port Hardy,D,District,MW,2019,2024,true,4552.0,"2: 2,500 to 9,999",Port Hardy
+port-mcneill-t,Port McNeill,Port McNeill,T,Town,MW,2019,2024,true,2591.0,"2: 2,500 to 9,999",Port McNeill
+port-moody-c,Port Moody,Port Moody,C,City,MVRD,2019,2024,true,39316.0,"3: 10,000 to 49,999",Port Moody
+pouce-coupe-v,Pouce Coupe,Pouce Coupe,V,Village,PEA,2019,2024,true,832.0,"1: under 2,500",Pouce Coupe
+powell-river-c,Powell River,Powell River,C,City,qRD,2019,2024,true,14607.0,"3: 10,000 to 49,999",Powell River | Powell River - C
+prince-george-c,Prince George,Prince George,C,City,FFG,2019,2024,true,84006.0,"4: 50,000 to 149,999",Prince George
+prince-rupert-c,Prince Rupert,Prince Rupert,C,City,NCRD,2019,2024,true,13536.0,"3: 10,000 to 49,999",Prince Rupert
+princeton-t,Princeton,Princeton,T,Town,OKS,2019,2024,true,3333.0,"2: 2,500 to 9,999",Princeton
+qualicum-beach-t,Qualicum Beach,Qualicum Beach,T,Town,NAN,2019,2024,true,9663.0,"2: 2,500 to 9,999",Qualicum Beach
+quesnel-c,Quesnel,Quesnel,C,City,CAR,2019,2024,true,10422.0,"3: 10,000 to 49,999",Quesnel
+radium-hot-springs-v,Radium Hot Springs,Radium Hot Springs,V,Village,EKO,2019,2024,true,1036.0,"1: under 2,500",Radium Hot Springs
+revelstoke-c,Revelstoke,Revelstoke,C,City,COL,2019,2024,true,8617.0,"2: 2,500 to 9,999",Revelstoke
+richmond-c,Richmond,Richmond,C,City,MVRD,2019,2024,true,229781.0,"5: 150,000 and over",Richmond
+rossland-c,Rossland,Rossland,C,City,KOO,2019,2024,true,4390.0,"2: 2,500 to 9,999",Rossland
+saanich-d,Saanich,Saanich,D,District,CAP,2019,2024,true,129786.0,"4: 50,000 to 149,999",Saanich
+salmo-v,Salmo,Salmo,V,Village,CKO,2019,2024,true,1437.0,"1: under 2,500",Salmo
+salmon-arm-c,Salmon Arm,Salmon Arm,C,City,COL,2019,2024,true,21034.0,"3: 10,000 to 49,999",Salmon Arm
+sayward-v,Sayward,Sayward,V,Village,STR,2019,2024,true,305.0,"1: under 2,500",Sayward
+sechelt-d,Sechelt,Sechelt,D,District,SUN,2019,2024,true,11707.0,"3: 10,000 to 49,999",Sechelt
+shishalh-nation-government-district-d,shíshálh Nation Government District,shíshálh Nation Government District,D,District,SUN,2019,2024,true,792.0,"1: under 2,500",Sechelt Indian Government | shíshálh Nation Government District
+sicamous-d,Sicamous,Sicamous,D,District,COL,2019,2024,true,3005.0,"2: 2,500 to 9,999",Sicamous
+sidney-t,Sidney,Sidney,T,Town,CAP,2019,2024,true,12951.0,"3: 10,000 to 49,999",Sidney
+silverton-v,Silverton,Silverton,V,Village,CKO,2019,2024,true,217.0,"1: under 2,500",Silverton
+slocan-v,Slocan,Slocan,V,Village,CKO,2019,2024,true,334.0,"1: under 2,500",Slocan
+smithers-t,Smithers,Smithers,T,Town,BUL,2019,2024,true,5879.0,"2: 2,500 to 9,999",Smithers
+sooke-d,Sooke,Sooke,D,District,CAP,2019,2024,true,16866.0,"3: 10,000 to 49,999",Sooke
+spallumcheen-d,Spallumcheen,Spallumcheen,D,District,NOK,2019,2024,true,5858.0,"2: 2,500 to 9,999",Spallumcheen
+sparwood-d,Sparwood,Sparwood,D,District,EKO,2019,2024,true,4265.0,"2: 2,500 to 9,999",Sparwood
+squamish-d,Squamish,Squamish,D,District,SQL,2019,2024,true,24655.0,"3: 10,000 to 49,999",Squamish
+stewart-d,Stewart,Stewart,D,District,KIT,2019,2024,true,438.0,"1: under 2,500",Stewart
+summerland-d,Summerland,Summerland,D,District,OKS,2019,2024,true,13310.0,"3: 10,000 to 49,999",Summerland
+sun-peaks-v,Sun Peaks,Sun Peaks,V,Village,TNR,2019,2024,true,1024.0,"1: under 2,500",Sun Peaks
+surrey-c,Surrey,Surrey,C,City,MVRD,2019,2024,true,662561.0,"5: 150,000 and over",Surrey
+tahsis-v,Tahsis,Tahsis,V,Village,STR,2019,2024,true,277.0,"1: under 2,500",Tahsis
+taylor-d,Taylor,Taylor,D,District,PEA,2019,2024,true,1606.0,"1: under 2,500",Taylor
+telkwa-v,Telkwa,Telkwa,V,Village,BUL,2019,2024,true,1500.0,"1: under 2,500",Telkwa
+terrace-c,Terrace,Terrace,C,City,KIT,2019,2024,true,13926.0,"3: 10,000 to 49,999",Terrace
+tofino-d,Tofino,Tofino,D,District,ALB,2019,2024,true,2653.0,"2: 2,500 to 9,999",Tofino
+trail-c,Trail,Trail,C,City,KOO,2019,2024,true,8480.0,"2: 2,500 to 9,999",Trail
+tumbler-ridge-d,Tumbler Ridge,Tumbler Ridge,D,District,PEA,2019,2024,true,2301.0,"1: under 2,500",Tumbler Ridge
+ucluelet-d,Ucluelet,Ucluelet,D,District,ALB,2019,2024,true,2309.0,"1: under 2,500",Ucluelet
+valemount-v,Valemount,Valemount,V,Village,FFG,2019,2024,true,1018.0,"1: under 2,500",Valemount
+vancouver-c,Vancouver,Vancouver,C,City,MVRD,2019,2024,true,725778.0,"5: 150,000 and over",Vancouver | Vancouver1
+vanderhoof-d,Vanderhoof,Vanderhoof,D,District,BUL,2019,2024,true,4839.0,"2: 2,500 to 9,999",Vanderhoof
+vernon-c,Vernon,Vernon,C,City,NOK,2019,2024,true,47265.0,"3: 10,000 to 49,999",Vernon
+victoria-c,Victoria,Victoria,C,City,CAP,2019,2024,true,99792.0,"4: 50,000 to 149,999",Victoria
+view-royal-t,View Royal,View Royal,T,Town,CAP,2019,2024,true,13219.0,"3: 10,000 to 49,999",View Royal
+warfield-v,Warfield,Warfield,V,Village,KOO,2019,2024,true,1881.0,"1: under 2,500",Warfield
+wells-d,Wells,Wells,D,District,CAR,2019,2024,true,227.0,"1: under 2,500",Wells
+west-kelowna-c,West Kelowna,West Kelowna,C,City,COK,2019,2024,true,46358.0,"3: 10,000 to 49,999",West Kelowna
+west-vancouver-d,West Vancouver,West Vancouver,D,District,MVRD,2019,2024,true,40715.0,"3: 10,000 to 49,999",West Vancouver
+whistler-d,Whistler,Whistler,D,District,SQL,2019,2024,true,14025.0,"3: 10,000 to 49,999",Whistler
+white-rock-c,White Rock,White Rock,C,City,MVRD,2019,2024,true,22362.0,"3: 10,000 to 49,999",White Rock
+williams-lake-c,Williams Lake,Williams Lake,C,City,CAR,2019,2024,true,11626.0,"3: 10,000 to 49,999",Williams Lake
+zeballos-v,Zeballos,Zeballos,V,Village,STR,2019,2024,true,121.0,"1: under 2,500",Zeballos

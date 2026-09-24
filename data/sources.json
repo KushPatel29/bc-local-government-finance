@@ -1,0 +1,749 @@
+{
+  "publisher": "Province of British Columbia, Ministry of Municipal Affairs",
+  "page": "https://www2.gov.bc.ca/gov/content/governments/local-governments/facts-framework/statistics/statistics",
+  "licence": "Open Government Licence - British Columbia",
+  "retrieved_utc": "2026-09-23T23:38:34Z",
+  "years": [
+    2019,
+    2024
+  ],
+  "schedules": {
+    "201": "General statistics: population, area, network lengths",
+    "301": "Financial assets",
+    "302": "Liabilities",
+    "304": "Summary statement of financial position",
+    "401": "Consolidated revenue",
+    "402": "Consolidated expenses by function",
+    "404": "Changes in net financial assets",
+    "503": "Tangible capital assets by category, with replacement values",
+    "601_1": "Total debt and financing costs",
+    "602_1": "Liability servicing limit",
+    "701": "Assessed values by property class",
+    "702": "Tax rates by purpose and class",
+    "703": "Total taxes and charges",
+    "704": "Taxes and charges on a representative house",
+    "707": "Assessments, rates, multiples and municipal taxes by class"
+  },
+  "files": [
+    {
+      "file": "schedule201_2019.xlsx",
+      "schedule": "201",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule201_2019.xlsx",
+      "bytes": 24750,
+      "sha256": "a6154625dac955bf983f77f3fe4e2e8ce6198c2a75fb587915dcf199d02d9a71"
+    },
+    {
+      "file": "schedule201_2020.xlsx",
+      "schedule": "201",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule201_2020.xlsx",
+      "bytes": 24691,
+      "sha256": "193ede58ce841fb7b79b1541e28aa5893f9eb7264e0148bcf6aaaacab6827d18"
+    },
+    {
+      "file": "schedule201_2021.xlsx",
+      "schedule": "201",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule201_2021.xlsx",
+      "bytes": 24765,
+      "sha256": "f75d44e120243d967f5451cd62e97c4422e774c8e3613905aa94f1e50feb5add"
+    },
+    {
+      "file": "schedule201_2022.xlsx",
+      "schedule": "201",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule201_2022.xlsx",
+      "bytes": 24914,
+      "sha256": "a9450fa9008c3779a121b9e1ea5befd0846049402decbc1ccd0c83b787120b81"
+    },
+    {
+      "file": "schedule201_2023.xlsx",
+      "schedule": "201",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule201_2023.xlsx",
+      "bytes": 24886,
+      "sha256": "97bd27e12b4ac24e2c6912834e56c3aee7da841b984415a55a66cf0d26210fd2"
+    },
+    {
+      "file": "schedule201_2024.xlsx",
+      "schedule": "201",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule201_2024.xlsx",
+      "bytes": 24872,
+      "sha256": "9f377d54824acedb4e1eadc4b398f3936361cd5eec9e833d77ca97963c414378"
+    },
+    {
+      "file": "schedule301_2019.xlsx",
+      "schedule": "301",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule301_2019.xlsx",
+      "bytes": 24699,
+      "sha256": "6225c5e4fb2ef4874e91ead250e03bdb02fde5091a79d8444ef9894f8e619281"
+    },
+    {
+      "file": "schedule301_2020.xlsx",
+      "schedule": "301",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule301_2020.xlsx",
+      "bytes": 24661,
+      "sha256": "89b4a2d8f2e4a8ca3cdb690fc005d0fa1a4b37f26ab3ce3e458adec1fa68c9b2"
+    },
+    {
+      "file": "schedule301_2021.xlsx",
+      "schedule": "301",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule301_2021.xlsx",
+      "bytes": 25758,
+      "sha256": "60174efa12fb7924f8c85c6af731a7215500fa4483360bc897e28c85212ad07e"
+    },
+    {
+      "file": "schedule301_2022.xlsx",
+      "schedule": "301",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule301_2022.xlsx",
+      "bytes": 25887,
+      "sha256": "0cd0b73c510b87d822a43df46423ec51a52711f4ebedc2560b140ac36ee683e0"
+    },
+    {
+      "file": "schedule301_2023.xlsx",
+      "schedule": "301",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule301_2023.xlsx",
+      "bytes": 25887,
+      "sha256": "a9aced7d82e53262936f1ebc267bb7769dc2972d4591389fc9a2bc2725d52e27"
+    },
+    {
+      "file": "schedule301_2024.xlsx",
+      "schedule": "301",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule301_2024.xlsx",
+      "bytes": 25695,
+      "sha256": "b98b33ae58c51421387577dc29d15ae2095b4a65915be78cab13727b8177dfc0"
+    },
+    {
+      "file": "schedule302_2019.xlsx",
+      "schedule": "302",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule302_2019.xlsx",
+      "bytes": 26282,
+      "sha256": "f12c8ebdd070f17c85b48ac4798b23edae569d9dab8e4869fb1a2c97e3847a5b"
+    },
+    {
+      "file": "schedule302_2020.xlsx",
+      "schedule": "302",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule302_2020.xlsx",
+      "bytes": 26394,
+      "sha256": "dbcade0fb4f30b805095813da58e1a14366cdc33f3b566057d13c26b778ba786"
+    },
+    {
+      "file": "schedule302_2021.xlsx",
+      "schedule": "302",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule302_2021.xlsx",
+      "bytes": 27229,
+      "sha256": "a161634894af80435d6add9945e4fe370462540824a64419bad57648a48bbc52"
+    },
+    {
+      "file": "schedule302_2022.xlsx",
+      "schedule": "302",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule302_2022.xlsx",
+      "bytes": 27474,
+      "sha256": "a5f2fb24dd49f7126c3ee077bd1c0db9fc944aa3ca55d777c1abdff49854ffbb"
+    },
+    {
+      "file": "schedule302_2023.xlsx",
+      "schedule": "302",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule302_2023.xlsx",
+      "bytes": 27557,
+      "sha256": "ff1c2fce2d35090492913e04376f8bb7503439efffd903345e203210a4ceb4bb"
+    },
+    {
+      "file": "schedule302_2024.xlsx",
+      "schedule": "302",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule302_2024.xlsx",
+      "bytes": 25921,
+      "sha256": "a9ee9f80d6b63a75250e1c854db5cfd1339fb408c421d3b0ee1e5e7bdab773a3"
+    },
+    {
+      "file": "schedule304_2019.xlsx",
+      "schedule": "304",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule304_2019.xlsx",
+      "bytes": 29530,
+      "sha256": "fc36be0382319c3bb721d86e27d5bd5b3971bece0fb9b80ff920583ed10f0fcb"
+    },
+    {
+      "file": "schedule304_2020.xlsx",
+      "schedule": "304",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule304_2020.xlsx",
+      "bytes": 29567,
+      "sha256": "4050842952756cbafd073e9b9b6410b5fbe954534921c511b9fcca196e7232be"
+    },
+    {
+      "file": "schedule304_2021.xlsx",
+      "schedule": "304",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule304_2021.xlsx",
+      "bytes": 30367,
+      "sha256": "baf0050fb273240ad89dbc861c5e1ad10466d6133e5f814b7caa3195e346bf3a"
+    },
+    {
+      "file": "schedule304_2022.xlsx",
+      "schedule": "304",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule304_2022.xlsx",
+      "bytes": 30542,
+      "sha256": "e94ed5d05388c73274a903f6b94c6540f6ceaa71183427f8b718a7f47624a7d3"
+    },
+    {
+      "file": "schedule304_2023.xlsx",
+      "schedule": "304",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule304_2023.xlsx",
+      "bytes": 29861,
+      "sha256": "ea57d5eab232eca2960955e1b05ccce89589758e87da3ec99e265ac757dff726"
+    },
+    {
+      "file": "schedule304_2024.xlsx",
+      "schedule": "304",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule304_2024.xlsx",
+      "bytes": 29612,
+      "sha256": "cc3f98fef6bec5ce8b908c354af7a51399fe23a35e1c64bd737fa7dc6eb3fc4e"
+    },
+    {
+      "file": "schedule401_2019.xlsx",
+      "schedule": "401",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule401_2019.xlsx",
+      "bytes": 27057,
+      "sha256": "d7e8f9d4d6e6565e3609a8182f71eb1ef2deab92ae2dae5aa1eb73da33e3282e"
+    },
+    {
+      "file": "schedule401_2020.xlsx",
+      "schedule": "401",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule401_2020.xlsx",
+      "bytes": 27033,
+      "sha256": "afc7048f883c382855712d1f1e8334fc7f8a73846426a5bab5492012bac1c628"
+    },
+    {
+      "file": "schedule401_2021.xlsx",
+      "schedule": "401",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule401_2021.xlsx",
+      "bytes": 27915,
+      "sha256": "9a75db62a86faaa4fd819351c1f77bf8698d15c8d6f2e679ae36303e42640d29"
+    },
+    {
+      "file": "schedule401_2022.xlsx",
+      "schedule": "401",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule401_2022.xlsx",
+      "bytes": 28143,
+      "sha256": "930f1d4fdfb99c5ea4b7cb436adbcc6bd2e64cff19427a547b78e42dcae547d0"
+    },
+    {
+      "file": "schedule401_2023.xlsx",
+      "schedule": "401",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule401_2023.xlsx",
+      "bytes": 28174,
+      "sha256": "3bfa846878dcef1a50c336c07e2ac27f3a267e399eb8290b323468b0249b3aa8"
+    },
+    {
+      "file": "schedule401_2024.xlsx",
+      "schedule": "401",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule401_2024.xlsx",
+      "bytes": 27986,
+      "sha256": "5757dc0d70378808faaaf5ee5d7ee28394df1f11583924a8f510953a6227ff7a"
+    },
+    {
+      "file": "schedule402_2019.xlsx",
+      "schedule": "402",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule402_2019.xlsx",
+      "bytes": 30500,
+      "sha256": "f01f39c9b16f777877b93df5492afb24b707de53a5d0a503c9e4270f64a1249f"
+    },
+    {
+      "file": "schedule402_2020.xlsx",
+      "schedule": "402",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule402_2020.xlsx",
+      "bytes": 30632,
+      "sha256": "0433f829fe41f106b3ef64765cd2cd47531af1b003265b97450ba93d8d8e196a"
+    },
+    {
+      "file": "schedule402_2021.xlsx",
+      "schedule": "402",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule402_2021.xlsx",
+      "bytes": 31441,
+      "sha256": "6305c93d1c09c65042127bf18442903deb91ee5a80e3c88869875bd91d7531a1"
+    },
+    {
+      "file": "schedule402_2022.xlsx",
+      "schedule": "402",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule402_2022.xlsx",
+      "bytes": 31621,
+      "sha256": "43c39bdd517e54982ae42c8cd096362f214dc3941e767eb063f1bba0788ff352"
+    },
+    {
+      "file": "schedule402_2023.xlsx",
+      "schedule": "402",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule402_2023.xlsx",
+      "bytes": 32610,
+      "sha256": "021b33bcfe089ae95177512b59d38afeda546c339949d378daffee7f620f1433"
+    },
+    {
+      "file": "schedule402_2024.xlsx",
+      "schedule": "402",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule402_2024.xlsx",
+      "bytes": 32492,
+      "sha256": "8ed51bd104bedac8b4abe97b824b70549482a44b5b0c70f3b59afe3558fb02f1"
+    },
+    {
+      "file": "schedule404_2019.xlsx",
+      "schedule": "404",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule404_2019.xlsx",
+      "bytes": 27291,
+      "sha256": "2f16b0dcedcbb8ce8c9ed0c898f20e85a0313da8a9bcdb26048ebd99631d27e8"
+    },
+    {
+      "file": "schedule404_2020.xlsx",
+      "schedule": "404",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule404_2020.xlsx",
+      "bytes": 27257,
+      "sha256": "0b35cf57dd287ce47e822462f8f538f6d2e171214373bae4d7aec9439de0337b"
+    },
+    {
+      "file": "schedule404_2021.xlsx",
+      "schedule": "404",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule404_2021.xlsx",
+      "bytes": 28144,
+      "sha256": "763ede67c3537577eecc949601ca7a2d8746eb3021f02427abbbc6ed01f8f703"
+    },
+    {
+      "file": "schedule404_2022.xlsx",
+      "schedule": "404",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule404_2022.xlsx",
+      "bytes": 28423,
+      "sha256": "c4eda1bc6b637a5fe0062a2e5e7c7460d8bb318e4e3c93a7ff6b7836fd15894f"
+    },
+    {
+      "file": "schedule404_2023.xlsx",
+      "schedule": "404",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule404_2023.xlsx",
+      "bytes": 29048,
+      "sha256": "6fd6f2b6e9fa4b2df7d06defdb3a25adc34bdeee3dab6fd0d5a6f11b38cee085"
+    },
+    {
+      "file": "schedule404_2024.xlsx",
+      "schedule": "404",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule404_2024.xlsx",
+      "bytes": 28437,
+      "sha256": "f4949f25928adc35e5426659cbf9b2be71dbd653800465b55d66a252f161f755"
+    },
+    {
+      "file": "schedule503_2019.xlsx",
+      "schedule": "503",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule503_2019.xlsx",
+      "bytes": 155632,
+      "sha256": "a59e1cb08455f544dfb5d1efe11e1dfea9798775027d4ca8c1f2f9e97dde0f81"
+    },
+    {
+      "file": "schedule503_2020.xlsx",
+      "schedule": "503",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule503_2020.xlsx",
+      "bytes": 156078,
+      "sha256": "42ebe78894ed766b48ca307deac2abf8387f85238596f6048842c74eeea80849"
+    },
+    {
+      "file": "schedule503_2021.xlsx",
+      "schedule": "503",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule503_2021.xlsx",
+      "bytes": 151600,
+      "sha256": "813090da1cd55e7293706afe0ff336a396ba2f245a024bd33e002cb097eba61e"
+    },
+    {
+      "file": "schedule503_2022.xlsx",
+      "schedule": "503",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule503_2022.xlsx",
+      "bytes": 152064,
+      "sha256": "f1cb0477dcad39e62068d0b8b439f093d78b859b4253ebbb7253bfd4955734c0"
+    },
+    {
+      "file": "schedule503_2023.xlsx",
+      "schedule": "503",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule503_2023.xlsx",
+      "bytes": 152752,
+      "sha256": "ae231cd1417cd220bedcc2f14537fe3ede69d66cf2a41a4c8c641e0b149ce70b"
+    },
+    {
+      "file": "schedule503_2024.xlsx",
+      "schedule": "503",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule503_2024.xlsx",
+      "bytes": 158771,
+      "sha256": "4c311d0c4c70b3d636416c671dcf17512abf41ea91387e9e04bef65e67bf43c7"
+    },
+    {
+      "file": "schedule601_1_2019.xlsx",
+      "schedule": "601_1",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule601_1_2019.xlsx",
+      "bytes": 22670,
+      "sha256": "895ff17790d035715ddf9e2592946f6ddf625120521aa629be41be7fa9584f05"
+    },
+    {
+      "file": "schedule601_1_2020.xlsx",
+      "schedule": "601_1",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule601_1_2020.xlsx",
+      "bytes": 22619,
+      "sha256": "3f539301529f1460252cdcdfeb5b04bc41b92db6e3788fb04b3cd9aa9e5e5697"
+    },
+    {
+      "file": "schedule601_1_2021.xlsx",
+      "schedule": "601_1",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule601_1_2021.xlsx",
+      "bytes": 23621,
+      "sha256": "d60006bc5a9a81c97211b372fd7851bf7a751fe12bc88140a21a2e985bd9ea36"
+    },
+    {
+      "file": "schedule601_1_2022.xlsx",
+      "schedule": "601_1",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule601_1_2022.xlsx",
+      "bytes": 23848,
+      "sha256": "d013e9d9dd7339225b52b7007f13e74317dd32bc2e37fb01005737619ae59c2b"
+    },
+    {
+      "file": "schedule601_1_2023.xlsx",
+      "schedule": "601_1",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule601_1_2023.xlsx",
+      "bytes": 23722,
+      "sha256": "d634acc9491db48df1c08046771e581363bff99337492a3cf2fcf7672dd426ce"
+    },
+    {
+      "file": "schedule601_1_2024.xlsx",
+      "schedule": "601_1",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule601_1_2024.xlsx",
+      "bytes": 23625,
+      "sha256": "1f7e85c21fc34e08b7b9c2a4ec2c715d4466c719aeded9ab3305303451025b29"
+    },
+    {
+      "file": "schedule602_1_2019.xlsx",
+      "schedule": "602_1",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule602_1_2019.xlsx",
+      "bytes": 23143,
+      "sha256": "bfd306b5e8851ef424db0441716d9f1488d6c9dde1a8f4e70db0fc41ddb4482f"
+    },
+    {
+      "file": "schedule602_1_2020.xlsx",
+      "schedule": "602_1",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule602_1_2020.xlsx",
+      "bytes": 23019,
+      "sha256": "6b8aabb252a89529555b4318322867081a481cbcddeba2cc1acbd9c9e54b0b90"
+    },
+    {
+      "file": "schedule602_1_2021.xlsx",
+      "schedule": "602_1",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule602_1_2021.xlsx",
+      "bytes": 24189,
+      "sha256": "cba0bf3857218a1f9bbe4596d6f62eee18d59a231c80a59074e74ce2f3bc8715"
+    },
+    {
+      "file": "schedule602_1_2022.xlsx",
+      "schedule": "602_1",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule602_1_2022.xlsx",
+      "bytes": 24359,
+      "sha256": "e40d39446d6df73ff502c8cd58d2d53940a7b9db51cacc54ea5472c73fe111fe"
+    },
+    {
+      "file": "schedule602_1_2023.xlsx",
+      "schedule": "602_1",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule602_1_2023.xlsx",
+      "bytes": 25999,
+      "sha256": "7c5adef555ba0756407cf2a034fc04c96e73a1e01d4f05ef4ca527da1b60c567"
+    },
+    {
+      "file": "schedule602_1_2024.xlsx",
+      "schedule": "602_1",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule602_1_2024.xlsx",
+      "bytes": 29815,
+      "sha256": "208668e626afecc6af7d7be20ba7ec48d51915324149fa2b523f99be655ce3bd"
+    },
+    {
+      "file": "schedule701_2019.xls",
+      "schedule": "701",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule701_2019.xls",
+      "bytes": 58880,
+      "sha256": "50a2316b82ae986a05b17d4a8e6ebfd7fd1beb17c26f555e544a168b99a5c05c"
+    },
+    {
+      "file": "schedule701_2020.xlsx",
+      "schedule": "701",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule701_2020.xlsx",
+      "bytes": 30303,
+      "sha256": "6a86c7fd51260c1c36ec7ba8bf07f67300cdda8ab1bbe251442427e0ba689257"
+    },
+    {
+      "file": "schedule701_2021.xlsx",
+      "schedule": "701",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule701_2021.xlsx",
+      "bytes": 30295,
+      "sha256": "2763c1e4168c08060d75fc8bc92c930ccfe9594a262076279d3a2d06e4bd448d"
+    },
+    {
+      "file": "schedule701_2022.xlsx",
+      "schedule": "701",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule701_2022.xlsx",
+      "bytes": 29337,
+      "sha256": "0a89e5c2e4ecf3b875280a45b2ca5ccc98d235f13744e051958e6444c6a6dd64"
+    },
+    {
+      "file": "schedule701_2023.xlsx",
+      "schedule": "701",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule701_2023.xlsx",
+      "bytes": 32002,
+      "sha256": "002288cb03e30f14c0f5fff4b7d557a28f959b1ba3fb9ac5cd4d281383274389"
+    },
+    {
+      "file": "schedule701_2024.xlsx",
+      "schedule": "701",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule701_2024.xlsx",
+      "bytes": 32177,
+      "sha256": "375486405ed1f35137fc9b7ca3f0ee727c79408108e1cae07381edb9c2f99999"
+    },
+    {
+      "file": "schedule702_2019.xls",
+      "schedule": "702",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule702_2019.xls",
+      "bytes": 248832,
+      "sha256": "7387ae8dd37f7887d02d9f056792fbfc5d9a3829032f8b6db37435f8f44e87d3"
+    },
+    {
+      "file": "schedule702_2020.xlsx",
+      "schedule": "702",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule702_2020.xlsx",
+      "bytes": 102360,
+      "sha256": "cc74c23d43aeff2a48e6aec0bcf74c35640fe9d96a3b25bac8a5c96c989342f8"
+    },
+    {
+      "file": "schedule702_2021.xlsx",
+      "schedule": "702",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule702_2021.xlsx",
+      "bytes": 101183,
+      "sha256": "4b71d1c7103235251c42f1dd74343ddeefa6fa0fdb59621540ba5d296e7625cb"
+    },
+    {
+      "file": "schedule702_2022.xlsx",
+      "schedule": "702",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule702_2022.xlsx",
+      "bytes": 101173,
+      "sha256": "7d00901e1eaf419166f1c16436ffb50b520860fabe4148b98efabc5b89e0ddfd"
+    },
+    {
+      "file": "schedule702_2023.xlsx",
+      "schedule": "702",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule702_2023.xlsx",
+      "bytes": 101506,
+      "sha256": "1b086ae3c10d44d856df320b381e12071b8d8eefdce21fa86b34b10f2f258c5b"
+    },
+    {
+      "file": "schedule702_2024.xlsx",
+      "schedule": "702",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule702_2024.xlsx",
+      "bytes": 101676,
+      "sha256": "29ee8162cb4eb130ca83d404af021710e851c6c5e56d611d1f29c723982a770d"
+    },
+    {
+      "file": "schedule703_2019.xls",
+      "schedule": "703",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule703_2019.xls",
+      "bytes": 72192,
+      "sha256": "8b2e941f9df725014d9bc9d2d9f58cee377fd2911a214cd1271f27a530312d0a"
+    },
+    {
+      "file": "schedule703_2020.xlsx",
+      "schedule": "703",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule703_2020.xlsx",
+      "bytes": 32451,
+      "sha256": "0320fd26063cd663efe48b24ba6c0e2fe05d63173309768bfff1f144be9d4fb3"
+    },
+    {
+      "file": "schedule703_2021.xlsx",
+      "schedule": "703",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule703_2021.xlsx",
+      "bytes": 32206,
+      "sha256": "4442fdb23cf02bd2c30d89f8a744dfc04ce94b428fa2dfc359775ac3cb3565d5"
+    },
+    {
+      "file": "schedule703_2022.xlsx",
+      "schedule": "703",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule703_2022.xlsx",
+      "bytes": 31623,
+      "sha256": "4a4276e0cbb7799028388bca0e482a0736df4657ff5082b0cbc4e2c475ef2588"
+    },
+    {
+      "file": "schedule703_2023.xlsx",
+      "schedule": "703",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule703_2023.xlsx",
+      "bytes": 31971,
+      "sha256": "247ac05ab6a25210bd448f07bcaafeda128c88d3e6e93be75387803ccbd8bdaf"
+    },
+    {
+      "file": "schedule703_2024.xlsx",
+      "schedule": "703",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule703_2024.xlsx",
+      "bytes": 32108,
+      "sha256": "3b0bac8a35609bd300b47c165b05809a54ac8056140a6c0f32a318483b8a7ddf"
+    },
+    {
+      "file": "schedule704_2019.xls",
+      "schedule": "704",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule704_2019.xls",
+      "bytes": 66048,
+      "sha256": "1c681b1d146b3c89b23bd19657705a97dfc4a78370cdc4ebe432448adf7950ac"
+    },
+    {
+      "file": "schedule704_2020.xlsx",
+      "schedule": "704",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule704_2020.xlsx",
+      "bytes": 24846,
+      "sha256": "577718960c6d2e3ad550a87fc08a7ac50a6bd37b8185d6217f7b82a52486bf6a"
+    },
+    {
+      "file": "schedule704_2021.xlsx",
+      "schedule": "704",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule704_2021.xlsx",
+      "bytes": 24759,
+      "sha256": "40f4f30a5a175fb8e90e8244ea822c4bad9b8b3443c40a4cf0153984194524df"
+    },
+    {
+      "file": "schedule704_2022.xlsx",
+      "schedule": "704",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule704_2022.xlsx",
+      "bytes": 23689,
+      "sha256": "f3d005089dff82d3f5aa590a9dfa2417339f082017167a0c904e5af844511bb8"
+    },
+    {
+      "file": "schedule704_2023.xlsx",
+      "schedule": "704",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule704_2023.xlsx",
+      "bytes": 24661,
+      "sha256": "334eb4626100e45f882c49932993aa569612bb579c0e0de07150a196b38cc232"
+    },
+    {
+      "file": "schedule704_2024.xlsx",
+      "schedule": "704",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule704_2024.xlsx",
+      "bytes": 32047,
+      "sha256": "9d593830de22e04a3c30cffc3a4176f34daf31b7d5b7535201ca90bbcaf45367"
+    },
+    {
+      "file": "schedule707_2019.xls",
+      "schedule": "707",
+      "year": 2019,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule707_2019.xls",
+      "bytes": 371200,
+      "sha256": "901540ccfa27ce7bae278ea1a8cd7bc86958c5b9f64a85b01eb570439539a6f0"
+    },
+    {
+      "file": "schedule707_2020.xlsx",
+      "schedule": "707",
+      "year": 2020,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule707_2020.xlsx",
+      "bytes": 158230,
+      "sha256": "b88891813c81feb019373c711012f4ffe0b5568d5e327f8ced7867ad5d5ec2f4"
+    },
+    {
+      "file": "schedule707_2021.xlsx",
+      "schedule": "707",
+      "year": 2021,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule707_2021.xlsx",
+      "bytes": 150910,
+      "sha256": "3364f6f6e1ceeac838b11abb038bd4c5e222d5284caa071c8beb0ca8aed9ccee"
+    },
+    {
+      "file": "schedule707_2022.xlsx",
+      "schedule": "707",
+      "year": 2022,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule707_2022.xlsx",
+      "bytes": 151222,
+      "sha256": "556646395cc68af4fde616bfef811c3669a9a9f393d9c7d06a1072b80ff4260b"
+    },
+    {
+      "file": "schedule707_2023.xlsx",
+      "schedule": "707",
+      "year": 2023,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule707_2023.xlsx",
+      "bytes": 153075,
+      "sha256": "5f464ec09ced1bbfa860dd10f32b0f6563e6e75a50616262ee1e31c255de70ef"
+    },
+    {
+      "file": "schedule707_2024.xlsx",
+      "schedule": "707",
+      "year": 2024,
+      "url": "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/local-governments/finance/local-government-statistics/schedule707_2024.xlsx",
+      "bytes": 153254,
+      "sha256": "929089866c5c421bf6836f789a14c92ff7fed468b78f1d3aa6ff077f5396e768"
+    }
+  ]
+}

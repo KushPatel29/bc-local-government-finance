@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: silver
+    description: >
+      The pipeline's silver layer: every cell of the Province's Local Government
+      Statistics schedules, 2019-2024, typed and held to pipeline/contracts.py.
+      Paths are relative to the repository root, where dbt is run from. Everything is
+      read as text and typed once, in staging.
+    tables:
+      - name: facts
+        description: One row per published cell.
+        meta:
+          external_location: "read_csv('data/silver/facts.csv', header = true, all_varchar = true)"
+      - name: municipalities
+        description: One row per municipality, with every spelling it was published under.
+        meta:
+          external_location: "read_csv('data/silver/municipalities.csv', header = true, all_varchar = true)"

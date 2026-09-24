@@ -1,0 +1,46 @@
+name: CI
+
+on:
+  # Weekly, so a green badge means the checks pass now, not on the day of the last push.
+  schedule:
+    - cron: "40 6 * * 6"
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Contracts, dbt build and data tests, and the workbook held to gold
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # ruff is pinned to the release the code was linted with.
+      - name: Install
+        run: pip install -r requirements.txt ruff==0.15.21
+
+      - name: Lint
+        run: ruff check .
+
+      # Silver from bronze: the committed files must be what the contracts produce.
+      - name: Rebuild silver and compare
+        run: |
+          python pipeline/extract.py
+          git diff --exit-code -- data/silver/
+
+      # Gold: dbt builds every model and runs all 31 data tests.
+      - name: dbt build
+        run: dbt build --project-dir dbt --profiles-dir dbt
+
+      # Excel does not run on Linux, so CI cannot rebuild the workbook. It reads the
+      # committed workbook's cached values and holds them to gold and to the
+      # pandas reference model.
+      - name: Tests
+        run: python -m pytest -q

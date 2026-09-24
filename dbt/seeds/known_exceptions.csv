@@ -1,0 +1,4 @@
+rule,municipality_id,year,difference,reason
+nfa_roll_matches_position,anmore-v,2020,616,Schedule 404 closing net financial assets differs from schedule 304 by $616 as published
+servicing_capacity,maple-ridge-c,2019,844796,Schedule 602.1 capacity is not limit less servicing less additional servicing as published
+population_repair,northern-rockies-d,2020,3787.5,Schedule 201 publishes 585 residents between about 4400 in every other year
