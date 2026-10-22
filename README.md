@@ -7,6 +7,15 @@
 ![Data](https://img.shields.io/badge/data-Province%20of%20BC%2C%20162%20municipalities-1F3A5F)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
+> **At a glance**
+>
+> - **The question.** Is a municipality keeping up with its infrastructure, and what would closing the gap cost in tax and borrowing?
+> - **What I built.** A pipeline over 90 official Province of B.C. files, each held to a written contract; a dbt model on DuckDB with 31 data tests; an Excel planning workbook for any of 161 municipalities.
+> - **What I found.** On average B.C. renews about as fast as it wears out, but the 68 municipalities that invest less than their assets wear out are $570M a year short. The pipeline also caught the Province's own defects, including a 2022 population file where 77 of 161 rows belong to other places.
+> - **Check it yourself.** Real public data, end to end. [Download the workbook](workbook/BC_Local_Government_Finance_Model.xlsx) or read the [board pack](docs/board_pack.pdf); CI rebuilds the Gold layer byte for byte.
+>
+> One of three case studies in [Kush Patel's portfolio](https://kushpatel29.github.io/#p-bc-finance). Built with AI coding assistants; the questions, metric definitions, tests and findings are mine.
+
 This project covers every municipality in British Columbia from 2019 to 2024. The data is the
 Province's own *Local Government Statistics*: fifteen schedules of audited financial data a year,
 published as spreadsheets. It runs in three layers:
