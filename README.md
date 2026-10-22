@@ -14,7 +14,7 @@
 > - **What I found.** On average B.C. renews about as fast as it wears out, but the 68 municipalities that invest less than their assets wear out are $570M a year short. The pipeline also caught the Province's own defects, including a 2022 population file where 77 of 161 rows belong to other places.
 > - **Check it yourself.** Real public data, end to end. [Download the workbook](workbook/BC_Local_Government_Finance_Model.xlsx) or read the [board pack](docs/board_pack.pdf); CI rebuilds the Gold layer byte for byte.
 >
-> One of three case studies in [Kush Patel's portfolio](https://kushpatel29.github.io/#p-bc-finance). Built with AI coding assistants; the questions, metric definitions, tests and findings are mine.
+> **[▶ Watch the 64-second captioned tour](https://kushpatel29.github.io/assets/video/bc-finance-tour.mp4)** · one of three case studies in [Kush Patel's portfolio](https://kushpatel29.github.io/#p-bc-finance). Built with AI coding assistants; the questions, metric definitions, tests and findings are mine.
 
 This project covers every municipality in British Columbia from 2019 to 2024. The data is the
 Province's own *Local Government Statistics*: fifteen schedules of audited financial data a year,
